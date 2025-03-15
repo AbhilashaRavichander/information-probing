@@ -1,7 +1,7 @@
 # Information-Guided Identification of Training Data Imprint in (Proprietary) Large Language Models
 
 This repository provides the code and data of [Information-Guided Identification of Training Data Imprint in
-(Proprietary) Large Language Models](#) by Abhilasha Ravichander, Jillian Fisher, Taylor Sorensen, Ximing Lu , Yuchen Lin , Maria Antoniak , Niloofar Mireshghallah , Chandra Bhagavatula, and Yejin Choi.
+(Proprietary) Large Language Models](https://github.com/AbhilashaRavichander/information-probing/blob/main/Memorization_NAACL2025.pdf) by Abhilasha Ravichander, Jillian Fisher, Taylor Sorensen, Ximing Lu , Yuchen Lin , Maria Antoniak , Niloofar Mireshghallah , Chandra Bhagavatula, and Yejin Choi.
 
 
 ## Overview
