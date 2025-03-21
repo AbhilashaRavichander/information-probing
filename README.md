@@ -19,11 +19,14 @@ This repository contains resources related to
 :star:  If you find our work useful, please consider citing our work  :star::
 
 ```bibtex
-@misc{ravichander2025information,
+@misc{ravichander2025informationguidedidentificationtrainingdata,
       title={Information-Guided Identification of Training Data Imprint in (Proprietary) Large Language Models}, 
       author={Abhilasha Ravichander and Jillian Fisher and Taylor Sorensen and Ximing Lu and Yuchen Lin and Maria Antoniak and Niloofar Mireshghallah and Chandra Bhagavatula and Yejin Choi},
       year={2025},
-    booktitle = {Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 2: Short Papers)"
+      eprint={2503.12072},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.12072}, 
 }
 ```
 
