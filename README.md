@@ -19,14 +19,29 @@ This repository contains resources related to
 :star:  If you find our work useful, please consider citing our work  :star::
 
 ```bibtex
-@misc{ravichander2025informationguidedidentificationtrainingdata,
-      title={Information-Guided Identification of Training Data Imprint in (Proprietary) Large Language Models}, 
-      author={Abhilasha Ravichander and Jillian Fisher and Taylor Sorensen and Ximing Lu and Yuchen Lin and Maria Antoniak and Niloofar Mireshghallah and Chandra Bhagavatula and Yejin Choi},
-      year={2025},
-      eprint={2503.12072},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2503.12072}, 
+@inproceedings{ravichander-etal-2025-information,
+    title = "Information-Guided Identification of Training Data Imprint in (Proprietary) Large Language Models",
+    author = "Ravichander, Abhilasha  and
+      Fisher, Jillian  and
+      Sorensen, Taylor  and
+      Lu, Ximing  and
+      Antoniak, Maria  and
+      Lin, Bill Yuchen  and
+      Mireshghallah, Niloofar  and
+      Bhagavatula, Chandra  and
+      Choi, Yejin",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.99/",
+    pages = "1962--1978",
+    ISBN = "979-8-89176-189-6",
+    abstract = "High-quality training data has proven crucial for developing performant large language models (LLMs). However, commercial LLM providers disclose few, if any, details about the data used for training. This lack of transparency creates multiple challenges: it limits external oversight and inspection of LLMs for issues such as copyright infringement, it undermines the agency of data authors, and it hinders scientific research on critical issues such as data contamination and data selection. How can we recover what training data is known to LLMs? In this work we demonstrate a new method to identify training data known to proprietary LLMs like GPT-4 without requiring any access to model weights or token probabilities, by using information-guided probes. Our work builds on a key observation: text passages with high surprisal are good search material for memorization probes. By evaluating a model`s ability to successfully reconstruct high-surprisal tokens in text, we can identify a surprising number of texts memorized by LLMs."
 }
 ```
 
